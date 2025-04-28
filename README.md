@@ -1,6 +1,3 @@
-Aqui está o texto em Markdown pronto para você copiar e colar no seu `README.md` do GitHub:
-
-```markdown
 # 🚀 E-Shop Brasil
 
 Este é um projeto de e-commerce simples desenvolvido como parte de um projeto acadêmico. Ele utiliza o Streamlit, MongoDB, MySQL e registro de logs de atividades para gerenciar dados de clientes e produtos. O sistema também está em conformidade com a LGPD (Lei Geral de Proteção de Dados), implementando uma opção para os clientes aceitarem a política de privacidade ao inserir seus dados.
